@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1687468885 source:c:\users\komputer\documents\c++projects\symulatorkasyna\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<chrono>
+	<thread>
+	<limits>
+	<fstream>
+
